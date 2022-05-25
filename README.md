@@ -1,2 +1,3 @@
-# Live-Stock-Prices
-The program automatically shows all the ups and down of a stock, live in form of a graph.
+# About the Program:
+The program uses Yahoo Finance to fetch live stock market data of Microsoft and Apple stocks. The output produces two animated graphs using Matplotlib FuncAnimation that updates itself automatically showing all the ups and down in the stock prices--live.
+
